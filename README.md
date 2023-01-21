@@ -48,4 +48,8 @@ Viewing the graph and result
 After clicking the 'Run selected algorithm..' button two windows will appear which containts the graph before the algorithm run, respectively the graph after the algorithm run.
 On the first window and also on the second window the user has to drag with the mouse the middle lane that splits the window in two panes in order to see the graph.
 The vertices that are included in the vertex cover set have 'CV' characters near the corresponding vertex number.
-The user can select with mouse the vertices and move them inside the frame. This might prove usefull in cases which the graph vertices might appear too crowded.[finalReportSENDED.pdf](https://github.com/dragosh45/FYProject/files/10473006/finalReportSENDED.pdf)
+The user can select with mouse the vertices and move them inside the frame. This might prove usefull in cases which the graph vertices might appear too crowded.
+
+For more theory background information / details please check the report:
+
+[finalReportSENDED.pdf](https://github.com/dragosh45/FYProject/files/10473006/finalReportSENDED.pdf)
