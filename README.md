@@ -43,5 +43,5 @@ cd FYProject/out/artifacts/MyProject_jar/
 chmod +x RunScript.sh
 ./RunScript.sh
 
-🧠 For more theory background information / details please check the report:
+### -> For more theory background information / details please check the report:
 https://github.com/dragosh45/FYProject/files/10473006/finalReportSENDED.pdf
